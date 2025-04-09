@@ -58,6 +58,7 @@
     <system:String x:Key="UsefulLinks">Liens utiles</system:String>
     <system:String x:Key="ForzaModsDiscord">Discord Forza Mods</system:String>
     <system:String x:Key="GitRepository">Dépôt Github</system:String>
+    <system:String x:Key="GitCloneRepository">Dépôt de clones Github</system:String>
     <system:String x:Key="Overlay">Superposition</system:String>
     <system:String x:Key="DebugWindow">Fenêtre de débogage</system:String>
     
@@ -284,6 +285,7 @@
     
     <!-- About.xaml -->
     <system:String x:Key="ToolContributors">Contributeurs de l'outil</system:String>
+    <system:String x:Key="ContributeTranslations">Traduction de contribution</system:String>
     <system:String x:Key="DiscordServer">Serveur Discord</system:String>
     
     <!-- Settings.xaml -->
@@ -327,4 +329,4 @@
     <system:String x:Key="Turkish">Turc</system:String>
     <system:String x:Key="Ukrainian">Ukrainien</system:String>
     <system:String x:Key="Vietnamese">Vietnamien</system:String>
-</ResourceDictionary> 
+</ResourceDictionary>

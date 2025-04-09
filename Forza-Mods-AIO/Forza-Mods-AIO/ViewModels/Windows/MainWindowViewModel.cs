@@ -26,14 +26,13 @@ namespace Forza_Mods_AIO.ViewModels.Windows;
 public partial class MainWindowViewModel : ObservableObject
 {
     private bool _isInitialized;
-    
-    #region Constants
 
+    #region Constants
     private const string NotAttachedText = "Launch FH4 or FH5";
     private const double WindowCornerRadiusSize = 7.5;
-
-    #endregion
     
+    #endregion
+
     #region Misc Vars
 
     [ObservableProperty]

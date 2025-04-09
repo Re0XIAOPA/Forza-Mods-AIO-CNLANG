@@ -55,9 +55,10 @@
     <system:String x:Key="MainDeveloper">此软件的主要开发者是Discord上的 @merikaaaaa (859106884358635530)</system:String>
     <system:String x:Key="AnyoneElseWhoClaims">任何其他声称制作了此软件的人都在说谎</system:String>
     <system:String x:Key="Donations">捐赠</system:String>
-    <system:String x:Key="UsefulLinks">有用链接</system:String>
+    <system:String x:Key="UsefulLinks">仓库链接</system:String>
     <system:String x:Key="ForzaModsDiscord">Forza Mods Discord</system:String>
     <system:String x:Key="GitRepository">Github仓库</system:String>
+    <system:String x:Key="GitCloneRepository">Github克隆仓库</system:String>
     <system:String x:Key="Overlay">悬浮窗</system:String>
     <system:String x:Key="DebugWindow">调试窗口</system:String>
     
@@ -284,6 +285,7 @@
     
     <!-- About.xaml -->
     <system:String x:Key="ToolContributors">工具贡献者</system:String>
+    <system:String x:Key="ContributeTranslations">贡献翻译</system:String>
     <system:String x:Key="ResetLanguage">重置语言</system:String>
 
     <!-- MainWindow.xaml - Theme -->
@@ -329,4 +331,4 @@
 
     <!-- Discord Server Names -->
     <system:String x:Key="DiscordServer">Discord服务器</system:String>
-</ResourceDictionary> 
+</ResourceDictionary>
