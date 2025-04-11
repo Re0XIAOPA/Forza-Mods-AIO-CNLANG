@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using System;
+using System.Windows;
 using Forza_Mods_AIO.Cheats;
 using Forza_Mods_AIO.Helpers;
 using Forza_Mods_AIO.Models;
@@ -148,4 +149,5 @@ public partial class App
         }
         _ = Imports.CloseHandle(Forza_Mods_AIO.Resources.Memory.GetInstance().MProc.Handle);
     }
+
 }

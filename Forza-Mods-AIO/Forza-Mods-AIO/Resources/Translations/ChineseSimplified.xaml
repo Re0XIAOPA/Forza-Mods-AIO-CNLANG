@@ -118,7 +118,7 @@
 
     <!-- Unlocks.xaml -->
     <system:String x:Key="Xp">经验值</system:String>
-    <system:String x:Key="Credits">点数</system:String>
+    <system:String x:Key="Credits">CR点数</system:String>
     <system:String x:Key="SkillPoints">技能点数</system:String>
     <system:String x:Key="Wheelspins">幸运转盘</system:String>
     <system:String x:Key="SeriesPoints">系列点数</system:String>
@@ -258,18 +258,38 @@
     <system:String x:Key="RearBumpStiffnessMax">后压缩刚度最大值</system:String>
     
     <!-- Aero.xaml -->
-    <system:String x:Key="FrontDownforceMin">前下压力最小值</system:String>
-    <system:String x:Key="FrontDownforceMax">前下压力最大值</system:String>
-    <system:String x:Key="RearDownforceMin">后下压力最小值</system:String>
-    <system:String x:Key="RearDownforceMax">后下压力最大值</system:String>
-    
+    <system:String x:Key="FrontAeroMin">前下压力最小值</system:String>
+    <system:String x:Key="FrontAeroMax">前下压力最大值</system:String>
+    <system:String x:Key="RearAeroMin">后下压力最小值</system:String>
+    <system:String x:Key="RearAeroMax">后下压力最大值</system:String>
+
     <!-- Steering.xaml -->
+    <system:String x:Key="AngleMax">最大转向角度</system:String>
+    <system:String x:Key="AngleMax2">最大转向角度 2</system:String>
+    <system:String x:Key="VelocityStraight">直线行驶速度</system:String>
+    <system:String x:Key="VelocityTurning">转弯速度</system:String>
+    <system:String x:Key="VelocityCountersteer">反打方向速度</system:String>
+    <system:String x:Key="VelocityDynamicPeek">动态最高速度</system:String>
+    <system:String x:Key="TimeToMaxSteering">达到最大转向时间</system:String>
+    
+    <!-- 多余的语言配置 -->
     <system:String x:Key="SteeringAngleMin">转向角度最小值</system:String>
     <system:String x:Key="SteeringAngleMax">转向角度最大值</system:String>
     <system:String x:Key="SteeringSpeedMin">转向速度最小值</system:String>
     <system:String x:Key="SteeringSpeedMax">转向速度最大值</system:String>
     
     <!-- Other.xaml -->
+    <system:String x:Key="Wheelbase">轮距</system:String>
+    <system:String x:Key="FrontWidth">车辆前部宽距</system:String>
+    <system:String x:Key="FrontSpacer">前轮距调节片</system:String>
+    <system:String x:Key="RearWidth">车辆后部宽距</system:String>
+    <system:String x:Key="RearSpacer">后轮距调节片</system:String>
+    <system:String x:Key="RimSizeFront">前轮毂尺寸大小</system:String>
+    <system:String x:Key="RimRadiusFront">前轮毂半径</system:String>
+    <system:String x:Key="RimSizeRear">后轮毂尺寸大小</system:String>
+    <system:String x:Key="RimRadiusRear">后轮毂半径</system:String>
+
+    <!-- 多余的语言配置 -->
     <system:String x:Key="BrakeBalanceMin">制动平衡最小值</system:String>
     <system:String x:Key="BrakeBalanceMax">制动平衡最大值</system:String>
     <system:String x:Key="BrakePressureMin">制动压力最小值</system:String>

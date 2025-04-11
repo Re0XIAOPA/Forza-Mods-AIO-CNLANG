@@ -17,11 +17,11 @@
         <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
         <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
         <DebugType>portable</DebugType>
-        <AssemblyName>yeahgosuckmydickwiththisblacklistshit</AssemblyName>
+        <AssemblyName>Forza-Mods-AIO-CNLANG</AssemblyName>
         <PlatformTarget>x64</PlatformTarget>
         <ApplicationManifest>app.manifest</ApplicationManifest>
-        <Company>yeahgosuckmydickwiththisblacklistshit</Company>
-        <Product>yeahgosuckmydickwiththisblacklistshit</Product>
+        <Company>Forza-Mods-AIO-CNLANG</Company>
+        <Product>Forza-Mods-AIO-CNLANG</Product>
         <NeutralLanguage>en-US</NeutralLanguage>
     </PropertyGroup>
 
